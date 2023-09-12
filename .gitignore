@@ -2,4 +2,7 @@
 Library/*
 temp/*
 Logs/*
-.vscode
+.vscode 
+obj/*
+Assembly-CSharp.csproj
+ProjectSettings/*
