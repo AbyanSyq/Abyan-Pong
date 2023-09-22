@@ -5,7 +5,7 @@ using UnityEngine;
 
 public class PlayerController02 : MonoBehaviour
 {
-    [SerializeField] private Rigidbody2D PlayerRb;
+    public Rigidbody2D PlayerRb;
     [SerializeField] private float movSpeed;
     private float Movdirection;
     
